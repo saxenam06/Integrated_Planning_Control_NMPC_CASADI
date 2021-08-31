@@ -6,7 +6,7 @@ In this repository, I explain the approach for  “Integration of Path Planning 
 
 We have the below scenario for our control objective i.e. Tracking of the given Waypoints of the Lane in magenta which is the current preferred lane of the ego vehicle, avoiding collision with the surrounding stationary (Road boundaries in Black) & moving obstacles (in Blue) and reaching the given goal location. The basic sketch for our problem is shown below. 
   ![image](https://user-images.githubusercontent.com/83720464/131503635-fa0fbeb3-4ae0-4134-8236-262a333424ae.png)
-Important aspects of the Vehicle Dynamic model of ego vehicle and moving obstacles, integration of Moving obstacle states with ego vehicle states, evaluation of vertical load on each wheel considering lateral and longitudinal weight transfer for wheel lift-off rollover safety constraints, objective function and constraints are explained in the uploaded paper. 
+Important aspects of the Vehicle Dynamic model of ego vehicle and moving obstacles, integration of Moving obstacle states with ego vehicle states, evaluation of vertical load on each wheel considering lateral and longitudinal weight transfer for wheel lift-off rollover safety constraints, objective function and constraints are explained in the uploaded paper. https://github.com/saxenam06/Integrated_Planning_Control_NMPC_CASADI/blob/main/Paper_Integrated_Planning_and_Control_for_Lane_Tracking_V1.pdf
 
 # Results
 In the below videp we see the results of our implementation. We see the planned path by the ego vehicle in green while tracking the reference lane waypoints in magenta and avoiding both road boundaries and moving obstacle in black and blue respectively. 
