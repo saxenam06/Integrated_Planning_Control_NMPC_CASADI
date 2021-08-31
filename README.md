@@ -13,9 +13,9 @@ Important aspects of the Vehicle Dynamic model of ego vehicle and moving obstacl
 # Results
 In the below video we see the results of our implementation. We see the planned path by the ego vehicle in green while tracking the reference lane waypoints in magenta and avoiding both road boundaries and moving obstacle in black and blue respectively. 
 
-https://user-images.githubusercontent.com/83720464/131503945-1d7b4536-a092-4776-89f2-60a8ecd4c884.mp4
+https://user-images.githubusercontent.com/83720464/131518775-6bda507d-4714-4e37-9b1d-acc6928d6b2f.mp4
 
-In below Fig. we see the results of all the important states and the control variables. We can see that the constraints of all the states are control variables was well respected by NMPC.
+In below Fig. we see the results of all the important states and the control variables. We can see that the constraints on all the states and control variables were well respected by our NMPC implementation. 
 
 ![image](https://user-images.githubusercontent.com/83720464/131503882-38c0f146-831a-451b-956a-5e3479b0764a.png)
 
