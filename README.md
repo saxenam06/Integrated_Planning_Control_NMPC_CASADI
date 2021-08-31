@@ -14,6 +14,7 @@ In the below videp we see the results of our implementation. We see the planned 
 https://user-images.githubusercontent.com/83720464/131503945-1d7b4536-a092-4776-89f2-60a8ecd4c884.mp4
 
 In below Fig. we see the results of all the important states and the control variables. We can see that the constraints of all the states are control variables was well respected by NMPC.
+
 ![image](https://user-images.githubusercontent.com/83720464/131503882-38c0f146-831a-451b-956a-5e3479b0764a.png)
 
   
