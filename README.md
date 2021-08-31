@@ -11,7 +11,7 @@ We have the below scenario for our control objective i.e. Tracking of the given 
 Important aspects of the Vehicle Dynamic model of ego vehicle and moving obstacles, integration of Moving obstacle states with ego vehicle states, evaluation of vertical load on each wheel considering lateral and longitudinal weight transfer for wheel lift-off rollover safety constraints, objective function and constraints are explained in the uploaded paper. https://github.com/saxenam06/Integrated_Planning_Control_NMPC_CASADI/blob/main/Paper_Integrated_Planning_and_Control_for_Lane_Tracking_V1.pdf
 
 # Results
-In the below videp we see the results of our implementation. We see the planned path by the ego vehicle in green while tracking the reference lane waypoints in magenta and avoiding both road boundaries and moving obstacle in black and blue respectively. 
+In the below video we see the results of our implementation. We see the planned path by the ego vehicle in green while tracking the reference lane waypoints in magenta and avoiding both road boundaries and moving obstacle in black and blue respectively. 
 
 https://user-images.githubusercontent.com/83720464/131503945-1d7b4536-a092-4776-89f2-60a8ecd4c884.mp4
 
